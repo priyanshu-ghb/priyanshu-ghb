@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Priyanshu, Self-taught aspiring Full Stack Developer.
+My name is Priyanshu, Self-taught and aspiring Full Stack Developer.
 
 - 🔭 I’m currently working on HTML5, CSS3, Sass and Bootstrap
 - 🌱 I’m currently learning React and Next and want to learn Backend Technologies
